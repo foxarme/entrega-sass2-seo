@@ -1,0 +1,20 @@
+.calendarios, .tipo-de-calendarios {
+  color: #0d3131;
+  text-decoration: underline;
+  background-color: #d8c5af;
+  font-family: sans-serif;
+  margin: 0px;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+.tipo-de-calendarios {
+  text-decoration: none;
+  display: flexbox;
+  border: 3px;
+}
+
+.tipo-de-calendarios img {
+  margin: 15px;
+}
+/*# sourceMappingURL=sass.css.map */

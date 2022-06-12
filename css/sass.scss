@@ -1,0 +1,22 @@
+.calendarios {
+    color: rgb(13, 49, 49);
+    text-decoration: underline;
+    background-color: rgb(216, 197, 175);
+    font-family: sans-serif;
+    margin: 0px;
+    padding: 15px;
+    border-radius: 10px;
+    
+  }
+  
+.tipo-de-calendarios {
+    @extend .calendarios;
+    text-decoration: none;
+    display: flexbox;
+    border: 3px;
+    
+    img {
+        margin: 15px;
+        
+    }
+}
